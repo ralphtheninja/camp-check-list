@@ -41,9 +41,6 @@
 - [ ] Soap
 - [ ] Towel
 - [ ] Toiletpaper
-- [ ] Pain killers
-- [ ] Allergy medicine
-- [ ] Insect repellent
 
 ## Tech
 
@@ -55,6 +52,13 @@
 - [ ] USB charger
 - [ ] Power bank
 - [ ] Extension cord
+
+## Misc
+
+- [ ] Pain killers
+- [ ] Allergy medicine
+- [ ] Insect repellent
+- [ ] Sunglasses
 
 -----------------------------------------------------------
 
