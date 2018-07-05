@@ -7,6 +7,7 @@
 - [ ] Underwear
 - [ ] Socks
 - [ ] T-shirts
+- [ ] Pants
 - [ ] Warm sweater/hoodie
 - [ ] Shorts
 - [ ] Swimming trunks (if applicable)
