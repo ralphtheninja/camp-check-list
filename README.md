@@ -43,6 +43,7 @@
 - [ ] Toiletpaper
 - [ ] Pain killers
 - [ ] Allergy medicine
+- [ ] Insect repellent
 
 ## Tech
 
