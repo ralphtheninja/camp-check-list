@@ -21,12 +21,13 @@
 - [ ] Aluminum tent nails
 - [ ] Hammer
 - [ ] Sleeping bag
-- [ ] Airmattress
+- [ ] Airmattress + pump
 - [ ] Burner with pots and pans
 - [ ] Matches and/or lighter
 - [ ] Spork
 - [ ] Guksi
 - [ ] Waterbottle
+- [ ] Leatherman/Multitool
 
 ## Food
 
@@ -60,6 +61,10 @@
 - [ ] Allergy medicine
 - [ ] Insect repellent
 - [ ] Sunglasses
+- [ ] Sunblock
+- [ ] Nicotine
+- [ ] First aid kit
+- [ ] Talcum
 
 -----------------------------------------------------------
 
